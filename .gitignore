@@ -16,5 +16,4 @@ experiment-*
 not_tracked_dir/
 .vscode
 docker/
-*.pth
 *log.txt
