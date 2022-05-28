@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>datum-02670.png</filename>
+	<path>C:\Users\Arjie\Documents\To Annotate\images\datum-02670.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>branch with leaves</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>525</xmin>
+			<ymin>4</ymin>
+			<xmax>1534</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>919</xmin>
+			<ymin>694</ymin>
+			<xmax>993</xmax>
+			<ymax>739</ymax>
+		</bndbox>
+	</object>
+</annotation>

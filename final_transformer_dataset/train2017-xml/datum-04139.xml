@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>datum-04139.png</filename>
+	<path>C:\Users\Lenovo-PC\OneDrive\Documents\To Annotate\images\datum-04139.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree branch</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>695</xmin>
+			<ymin>678</ymin>
+			<xmax>1113</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>965</xmin>
+			<ymin>898</ymin>
+			<xmax>1040</xmax>
+			<ymax>978</ymax>
+		</bndbox>
+	</object>
+</annotation>

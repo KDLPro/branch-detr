@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>datum-02949.png</filename>
+	<path>C:\Users\Arjie\Documents\To Annotate\images\datum-02949.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree branch</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>374</ymin>
+			<xmax>483</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree branch</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>463</ymin>
+			<xmax>1242</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>
